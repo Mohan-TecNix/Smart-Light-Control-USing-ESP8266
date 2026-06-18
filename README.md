@@ -23,9 +23,7 @@ A Wi-Fi based Smart Light Control System developed using ESP8266 NodeMCU and PIR
 - Wokwi Simulator
 - GitHub Desktop
 
-## Project Images
-![https://github.com/Mohan-TecNix/Smart-Light-Control-USing-ESP8266/blob/16335373c48bef5754261d7e326158b6705c51be/Images/Photo-1.jpg]
-
 ## Author
 Mohanakrishnan Samraj
+
 B.E Electronics and Communication Engineering
